@@ -31,7 +31,7 @@ before merging.
   1. Copy `lib/sub` to `$USERDIR/Documents/LTspiceXVII/lib`.
   2. Copy `lib/sym` to `$USERDIR/Documents/LTspiceXVII/lib`.
   3. Apppend contents of `lib/model/patch_\*.txt` to the corresponding file in `$USERDIR/Documents/LTspiceXVII/cmp`
-2. Open the desired `*.asc` file in `simulations` in LTspice
+2. Open the desired `*.asc` file in `sims/` in LTspice
 
 ## Listing
 

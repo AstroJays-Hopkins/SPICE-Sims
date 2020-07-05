@@ -1,0 +1,3 @@
+Licenses applicable to the following parts:
+* bc858clt1g, mfg: OnSemi - Symmetry Design License
+* TLP291-4, mfg: Toshiba - Toshiba Simulation Model License
